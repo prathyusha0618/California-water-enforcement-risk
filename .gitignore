@@ -1,0 +1,14 @@
+# Raw source data (too large for GitHub — see README for download source)
+ECHO_EXPORTER.csv
+*.zip
+
+# System files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor
+.vscode/
